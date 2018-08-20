@@ -490,7 +490,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Viet Nam](https://www.facebook.com/groups/vietnam.laravel/)
 * [Laravel Slovenia](https://www.facebook.com/groups/laravelslovenija/)
 * [Laravel Hungary](https://laravel.hu)
-* [Laravel Cameroon](https://laravelcm.com/) ([Slack](https://laravelcm.slack.com), [GitHub](https://github.com/laravelcm), [Facebook page](https://www.facebook.com/laravelcm), [Twitter](https://twitter.com/laravelcm))
+* [Laravel Cameroon](https://laravelcm.com/) ([Slack](https://laravelcm.slack.com), [GitHub](https://github.com/laravelcm),
+* [Laravel Bangladesh](https://www.facebook.com/groups/LaravelBanglaDesh/)
+[Facebook page](https://www.facebook.com/laravelcm), [Twitter](https://twitter.com/laravelcm))
 
 ##### Meetups
 
